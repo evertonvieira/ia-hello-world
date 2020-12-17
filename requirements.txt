@@ -1,1 +1,4 @@
 scikit-learn
+logitboost==0.7
+matplotlib
+seaborn
